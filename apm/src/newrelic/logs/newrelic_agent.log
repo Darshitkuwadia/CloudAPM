@@ -1,0 +1,139 @@
+Apr 1, 2015 22:20:13 -0700 [248 1] com.newrelic INFO: Writing to New Relic log file: C:\newrelic\logs\newrelic_agent.log
+Apr 1, 2015 22:20:13 -0700 [248 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.7.0_75
+Apr 1, 2015 22:20:13 -0700 [248 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 24.75-b04
+Apr 1, 2015 22:20:13 -0700 [248 1] com.newrelic INFO: OS Windows 8.1 version 6.3 arch amd64
+Apr 1, 2015 22:20:13 -0700 [248 1] com.newrelic INFO: Agent Host: poornima IP: 10.0.0.4
+Apr 1, 2015 22:20:13 -0700 [248 1] com.newrelic INFO: New Relic Agent v3.15.0 is initializing...
+Apr 1, 2015 22:20:22 -0700 [248 1] com.newrelic.instrumentation.grails-async-2.3 INFO: Disabled instrumentation "com.newrelic.instrumentation.grails-async-2.3"
+Apr 1, 2015 22:20:28 -0700 [248 1] com.newrelic.instrumentation.servlet-user INFO: Disabled instrumentation "com.newrelic.instrumentation.servlet-user"
+Apr 1, 2015 22:20:47 -0700 [248 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Apr 1, 2015 22:20:48 -0700 [248 1] com.newrelic INFO: Setting audit_mode to false
+Apr 1, 2015 22:20:48 -0700 [248 1] com.newrelic INFO: Setting protocol to "https"
+Apr 1, 2015 22:20:51 -0700 [248 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\newrelic\.\newrelic.yml
+Apr 1, 2015 22:20:51 -0700 [248 1] com.newrelic INFO: New Relic Agent v3.15.0 has started
+Apr 1, 2015 22:20:51 -0700 [248 1] com.newrelic INFO: Agent class loader: sun.misc.Launcher$AppClassLoader@43540a77
+Apr 1, 2015 22:20:53 -0700 [248 6] com.newrelic.agent.Agent INFO: JVM is shutting down
+Apr 1, 2015 22:20:53 -0700 [248 6] com.newrelic.agent.Agent INFO: New Relic Agent has shutdown
+Apr 1, 2015 22:22:01 -0700 [9152 1] com.newrelic INFO: Writing to New Relic log file: C:\newrelic\logs\newrelic_agent.log
+Apr 1, 2015 22:22:01 -0700 [9152 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.7.0_75
+Apr 1, 2015 22:22:01 -0700 [9152 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 24.75-b04
+Apr 1, 2015 22:22:01 -0700 [9152 1] com.newrelic INFO: OS Windows 8.1 version 6.3 arch amd64
+Apr 1, 2015 22:22:01 -0700 [9152 1] com.newrelic INFO: Agent Host: poornima IP: 10.0.0.4
+Apr 1, 2015 22:22:01 -0700 [9152 1] com.newrelic INFO: New Relic Agent v3.15.0 is initializing...
+Apr 1, 2015 22:22:11 -0700 [9152 1] com.newrelic.instrumentation.grails-async-2.3 INFO: Disabled instrumentation "com.newrelic.instrumentation.grails-async-2.3"
+Apr 1, 2015 22:22:16 -0700 [9152 1] com.newrelic.instrumentation.servlet-user INFO: Disabled instrumentation "com.newrelic.instrumentation.servlet-user"
+Apr 1, 2015 22:22:35 -0700 [9152 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Apr 1, 2015 22:22:35 -0700 [9152 1] com.newrelic INFO: Setting audit_mode to false
+Apr 1, 2015 22:22:35 -0700 [9152 1] com.newrelic INFO: Setting protocol to "https"
+Apr 1, 2015 22:22:39 -0700 [9152 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\newrelic\.\newrelic.yml
+Apr 1, 2015 22:22:39 -0700 [9152 1] com.newrelic INFO: New Relic Agent v3.15.0 has started
+Apr 1, 2015 22:22:39 -0700 [9152 1] com.newrelic INFO: Agent class loader: sun.misc.Launcher$AppClassLoader@ecf2c09
+Apr 1, 2015 22:26:14 -0700 [6908 1] com.newrelic INFO: Writing to New Relic log file: C:\newrelic\logs\newrelic_agent.log
+Apr 1, 2015 22:26:14 -0700 [6908 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.7.0_75
+Apr 1, 2015 22:26:14 -0700 [6908 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 24.75-b04
+Apr 1, 2015 22:26:14 -0700 [6908 1] com.newrelic INFO: OS Windows 8.1 version 6.3 arch amd64
+Apr 1, 2015 22:26:14 -0700 [6908 1] com.newrelic INFO: Agent Host: poornima IP: 10.0.0.4
+Apr 1, 2015 22:26:14 -0700 [6908 1] com.newrelic INFO: New Relic Agent v3.15.0 is initializing...
+Apr 1, 2015 22:26:21 -0700 [6908 1] com.newrelic.instrumentation.grails-async-2.3 INFO: Disabled instrumentation "com.newrelic.instrumentation.grails-async-2.3"
+Apr 1, 2015 22:26:25 -0700 [6908 1] com.newrelic.instrumentation.servlet-user INFO: Disabled instrumentation "com.newrelic.instrumentation.servlet-user"
+Apr 1, 2015 22:26:43 -0700 [6908 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Apr 1, 2015 22:26:43 -0700 [6908 1] com.newrelic INFO: Setting audit_mode to false
+Apr 1, 2015 22:26:43 -0700 [6908 1] com.newrelic INFO: Setting protocol to "https"
+Apr 1, 2015 22:26:48 -0700 [6908 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\newrelic\.\newrelic.yml
+Apr 1, 2015 22:26:48 -0700 [6908 1] com.newrelic INFO: New Relic Agent v3.15.0 has started
+Apr 1, 2015 22:26:48 -0700 [6908 1] com.newrelic INFO: Agent class loader: sun.misc.Launcher$AppClassLoader@43540a77
+Apr 1, 2015 22:26:53 -0700 [6908 1] com.newrelic INFO: Server Info: Apache Tomcat/8.0.20
+Apr 1, 2015 22:28:15 -0700 [6836 1] com.newrelic INFO: Writing to New Relic log file: C:\newrelic\logs\newrelic_agent.log
+Apr 1, 2015 22:28:15 -0700 [6836 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.7.0_75
+Apr 1, 2015 22:28:15 -0700 [6836 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 24.75-b04
+Apr 1, 2015 22:28:15 -0700 [6836 1] com.newrelic INFO: OS Windows 8.1 version 6.3 arch amd64
+Apr 1, 2015 22:28:15 -0700 [6836 1] com.newrelic INFO: Agent Host: poornima IP: 10.0.0.4
+Apr 1, 2015 22:28:15 -0700 [6836 1] com.newrelic INFO: New Relic Agent v3.15.0 is initializing...
+Apr 1, 2015 22:28:22 -0700 [6836 1] com.newrelic.instrumentation.grails-async-2.3 INFO: Disabled instrumentation "com.newrelic.instrumentation.grails-async-2.3"
+Apr 1, 2015 22:28:26 -0700 [6836 1] com.newrelic.instrumentation.servlet-user INFO: Disabled instrumentation "com.newrelic.instrumentation.servlet-user"
+Apr 1, 2015 22:28:47 -0700 [6836 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Apr 1, 2015 22:28:47 -0700 [6836 1] com.newrelic INFO: Setting audit_mode to false
+Apr 1, 2015 22:28:47 -0700 [6836 1] com.newrelic INFO: Setting protocol to "https"
+Apr 1, 2015 22:28:50 -0700 [6836 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is C:\newrelic\.\newrelic.yml
+Apr 1, 2015 22:28:50 -0700 [6836 1] com.newrelic INFO: New Relic Agent v3.15.0 has started
+Apr 1, 2015 22:28:50 -0700 [6836 1] com.newrelic INFO: Agent class loader: sun.misc.Launcher$AppClassLoader@ecf2c09
+Apr 1, 2015 22:28:55 -0700 [6836 1] com.newrelic INFO: Server Info: Apache Tomcat/8.0.20
+Apr 1, 2015 22:29:05 -0700 [6836 11] com.newrelic INFO: Display host name is poornima for application My Application
+Apr 1, 2015 22:29:09 -0700 [6836 11] com.newrelic INFO: Collector redirection to collector-150.newrelic.com:443
+Apr 1, 2015 22:29:11 -0700 [6836 11] com.newrelic INFO: Agent run id: 26144739384509885
+Apr 1, 2015 22:29:11 -0700 [6836 11] com.newrelic INFO: Agent 6836@poornima/My Application connected to collector.newrelic.com:443
+Apr 1, 2015 22:29:11 -0700 [6836 11] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/947035/applications/6087294
+Apr 1, 2015 22:29:11 -0700 [6836 11] com.newrelic INFO: Using RUM version 632 for application "My Application"
+Apr 1, 2015 22:29:11 -0700 [6836 11] com.newrelic INFO: Real user monitoring is enabled with auto instrumentation for application "My Application"
+Apr 1, 2015 22:30:45 -0700 [6836 30] com.newrelic INFO: Received a ForceRestartException: com.newrelic.agent.ForceRestartException: ***Restart agent on stale config (account) launch=2015-04-02 05:29:10 config=2015-04-02 05:29:11
+Apr 1, 2015 22:30:45 -0700 [6836 30] com.newrelic INFO: Display host name is poornima for application My Application
+Apr 1, 2015 22:30:45 -0700 [6836 30] com.newrelic INFO: Collector redirection to collector-150.newrelic.com:443
+Apr 1, 2015 22:30:46 -0700 [6836 30] com.newrelic INFO: Agent run id: 26144739384514000
+Apr 1, 2015 22:30:46 -0700 [6836 30] com.newrelic INFO: Agent 6836@poornima/My Application connected to collector.newrelic.com:443
+Apr 1, 2015 22:30:46 -0700 [6836 30] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/947035/applications/6087294
+Apr 1, 2015 22:30:46 -0700 [6836 30] com.newrelic INFO: Using RUM version 632 for application "My Application"
+Apr 1, 2015 22:30:46 -0700 [6836 30] com.newrelic INFO: Real user monitoring is enabled with auto instrumentation for application "My Application"
+Apr 2, 2015 16:43:22 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 16:43:22 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 16:43:22 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 2, 2015 16:44:21 -0700 [6836 30] com.newrelic INFO: Successfully reconnected to the New Relic data service.
+Apr 2, 2015 23:50:40 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:50:40 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:50:40 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 2, 2015 23:52:20 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:52:20 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:52:20 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 2, 2015 23:53:20 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:53:20 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:53:20 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 2, 2015 23:54:20 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:54:20 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:54:20 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 2, 2015 23:55:20 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:55:20 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:55:20 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 2, 2015 23:56:20 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:56:20 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:56:20 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 2, 2015 23:57:20 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:57:20 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:57:20 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 2, 2015 23:58:20 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:58:20 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 2, 2015 23:58:20 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 2, 2015 23:59:21 -0700 [6836 30] com.newrelic INFO: Successfully reconnected to the New Relic data service.
+Apr 3, 2015 15:14:11 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : com.newrelic.agent.deps.org.apache.http.NoHttpResponseException: The target server failed to respond.
+Apr 4, 2015 01:18:52 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : com.newrelic.agent.deps.org.apache.http.NoHttpResponseException: The target server failed to respond.
+Apr 4, 2015 10:47:35 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 4, 2015 10:47:35 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 4, 2015 10:47:35 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 4, 2015 11:03:40 -0700 [6836 30] com.newrelic INFO: Successfully reconnected to the New Relic data service.
+Apr 4, 2015 15:44:25 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 4, 2015 15:44:25 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 4, 2015 15:44:25 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 4, 2015 15:45:34 -0700 [6836 30] com.newrelic INFO: Successfully reconnected to the New Relic data service.
+Apr 4, 2015 21:45:54 -0700 [6836 30] com.newrelic INFO: A socket exception was encountered while sending data to New Relic (com.newrelic.agent.deps.org.apache.http.conn.HttpHostConnectException: Connect to collector-150.newrelic.com:443 [collector-150.newrelic.com/50.31.164.190] failed: Connection timed out: connect).  Please check your network / proxy settings.
+Apr 5, 2015 01:36:33 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 01:36:33 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 01:36:33 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 5, 2015 01:37:33 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 01:37:33 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 01:37:33 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 5, 2015 01:38:33 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 01:38:33 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 01:38:33 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 5, 2015 01:39:33 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 01:39:33 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 01:39:33 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 5, 2015 01:40:34 -0700 [6836 30] com.newrelic INFO: Successfully reconnected to the New Relic data service.
+Apr 5, 2015 12:36:41 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 12:36:41 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 12:36:41 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 5, 2015 12:36:41 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 12:36:41 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 12:36:41 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 5, 2015 12:52:25 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 12:52:25 -0700 [6836 30] com.newrelic INFO: Remote metric_data call failed : java.net.UnknownHostException: collector-150.newrelic.com.
+Apr 5, 2015 12:52:25 -0700 [6836 30] com.newrelic INFO: An unexpected error occurred sending metric data to New Relic.  Please file a support ticket once you have seen several of these messages in a short period of time: java.net.UnknownHostException: collector-150.newrelic.com
+Apr 5, 2015 13:08:25 -0700 [6836 30] com.newrelic INFO: Successfully reconnected to the New Relic data service.
+Apr 5, 2015 19:50:20 -0700 [6836 30] com.newrelic INFO: Remote get_agent_commands call failed : com.newrelic.agent.deps.org.apache.http.NoHttpResponseException: The target server failed to respond.
