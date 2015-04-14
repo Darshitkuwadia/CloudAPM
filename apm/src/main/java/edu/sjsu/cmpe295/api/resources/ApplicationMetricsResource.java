@@ -37,6 +37,12 @@ public class ApplicationMetricsResource {
 	return am.getApdexScore();		
 	}
 	
+	/**
+	 * 
+	 * Average Throughput 
+	 * @return
+	 */
+	
 	@GET
 	@Path("/averageThroughput")
 	@Produces( { MediaType.APPLICATION_JSON})
@@ -46,6 +52,68 @@ public class ApplicationMetricsResource {
 			
 	}
 	
+	@GET
+	@Path("/timeRange")
+	@Produces({ MediaType.APPLICATION_JSON})
+	public String getTimeRange() {
+		ApplicationMetrics am = new ApplicationMetrics();
+		return am.getTimeRange();
+				
+		}
 	
+	@GET
+	@Path("/summarize")
+	@Produces({ MediaType.APPLICATION_JSON})
+	public String summarize() {
+		ApplicationMetrics am = new ApplicationMetrics();
+		return am.summarize();
+				
+		}
+	
+	
+	//Application error rate 
+	
+	@GET
+	@Path("/errorRate")
+	@Produces({ MediaType.APPLICATION_JSON})
+	public String getErrorRate() {
+		ApplicationMetrics am = new ApplicationMetrics();
+		return am.getErrorRate();
+				
+		}
+	
+	@GET
+	@Path("/errorCount")
+	@Produces({ MediaType.APPLICATION_JSON})
+	public String getErrorCount() {
+		ApplicationMetrics am = new ApplicationMetrics();
+		return am.getErrorCount();
+				
+		}
+	@GET
+	@Path("/average")
+	@Produces({ MediaType.APPLICATION_JSON})
+	public String getAverage() {
+		ApplicationMetrics am = new ApplicationMetrics();
+		return am.getAverage();
+				
+		}
+	
+	@GET
+	@Path("/callCount")
+	@Produces({ MediaType.APPLICATION_JSON})
+	public String getCallCount() {
+		ApplicationMetrics am = new ApplicationMetrics();
+		return am.getCallCount();
+				
+		}
+	@GET
+	@Path("/avgResponseTime")
+	@Produces({ MediaType.APPLICATION_JSON})
+	public String getAverageResponseTime() {
+		ApplicationMetrics am = new ApplicationMetrics();
+		return am.getAverageResponseTime();
+				
+		}
 	
 }
